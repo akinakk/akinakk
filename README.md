@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://www.gozdis.si/f/pics/oddelek-za-varstvo-gozdov_1/Gozd_foto-Marinsek-18_h1.jpg" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### **<div align="center">I'm Artemi Baburin, a  full-stack  developer </div>**  
